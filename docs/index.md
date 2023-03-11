@@ -8,7 +8,7 @@
 ## Topics
 
 Section 1 - Early Knowledge Networks 
-- [[1.1 Archaeology, History, and the Internet -  ways of seeing]]
+- [1.1 Archaeology, History, and the Internet -  ways of seeing](https://github.com/AlexMcCorrister/memex/blob/main/docs/A.%20Topics/Section%201%20-%20Early%20Knowledge%20Networks/1.1%20Archaeology%2C%20History%2C%20and%20the%20Internet%20-%20%20ways%20of%20seeing.md)
 - [[1.2 The Medium is the Message]]
 - [[1.3 Cryptanalysis]]
 
